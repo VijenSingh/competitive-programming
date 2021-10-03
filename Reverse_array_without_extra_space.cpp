@@ -15,7 +15,7 @@ int main() {
     int a[8] = {3,2,-1,6,7,3,1,9};
     int n=8;
     int i=0,j=n-1;
-    while(i<j)
+    while(i<j) 
     {
         a[i] = a[i]^a[j];
         a[j] = a[i]^a[j];

@@ -27,11 +27,11 @@ using namespace std;
 
 int main() {
     
-    int n,s=0;
+    int n,s=0; 
     cin>>n;
       vector<int> ans(n,0);
       int q,i,val;
-
+ 
       cin>>q;
 
       while(q--)

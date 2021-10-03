@@ -42,7 +42,7 @@ int main() {
             ps.push_back(s);
        
     }
-  
+   
 
         while(q--)
         {

@@ -23,7 +23,7 @@ public:
         
         
         int maxx=0;
-        int i=0;int j=height.size()-1;
+        int i=0;int j=height.size()-1; 
         while(i<j)
         {   
             maxx=max(maxx,(j-i)*min(height[i],height[j]));

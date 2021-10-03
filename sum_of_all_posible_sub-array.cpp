@@ -15,7 +15,7 @@ Given an array Return the sum of all possible sub array.
 
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 
 
 int main() {

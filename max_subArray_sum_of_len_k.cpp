@@ -30,7 +30,7 @@ int main() {
       
     for(int i=0;i<k;i++)
     {
-            s+=ans[i];
+            s+=ans[i]; 
     }
 
     
