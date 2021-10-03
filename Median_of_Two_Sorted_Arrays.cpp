@@ -15,9 +15,9 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
 
 */
+ 
 
-
-#include <bits/stdc++.h>
+#include <bits/stdc++.h> 
 using namespace std;
 
 double fun(vector<int> a,vector<int> b)

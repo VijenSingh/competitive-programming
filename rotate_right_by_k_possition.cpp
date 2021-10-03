@@ -33,7 +33,7 @@ vector<int> reverse(vector<int> a,int s,int e)
         return a;
 }
 int main() {
-    
+     
    
       vector<int> ans = {3,7,1,6,8,-2,9};
       int A=7,k=k%A;

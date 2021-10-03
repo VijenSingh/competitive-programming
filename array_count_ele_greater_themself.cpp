@@ -16,7 +16,7 @@ using namespace std;
 int main() {
     
     int a[7] = {3,-2,6,8,4,8,5};
-    int mx= INT_MIN;
+    int mx= INT_MIN; 
     for(int i=0;i<7;i++)
     {
         if(mx<a[i])

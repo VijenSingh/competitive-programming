@@ -22,13 +22,13 @@ using namespace std;
 
 
 
-int main() {
+int main() { 
     
    
       vector<int> ans = {-7,1,5,2,-4,3,0};
       int n=7,s=0;
       vector<int> ps;
-     
+      
     for(int i=0;i<n;i++)
     {   
             s+=ans[i];
